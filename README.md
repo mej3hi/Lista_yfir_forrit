@@ -10,7 +10,7 @@ https://github.com/mej3hi/Watchlist-app
 Þetta er eftirlíking af hinn klassíkur Bomb Jack tölvuleikinn sem kom út árið 1984, en núna er hægt að spila hann í vafrann í staðinn. 
 https://github.com/mej3hi/bombjack
 
-## Iceland events
+## Iceland Events
 Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnugs er hægt að setja inn tónleikar með því að búa sig til aðgang að síðuna.
 https://github.com/mej3hi/tonlist
 
