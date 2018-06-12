@@ -26,3 +26,8 @@ https://github.com/mej3hi/tonlist
 Iceland Events er smáforrit fyrir Android snjalltæki sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnig er hægt að setja inn tónleikar með því að búa sig til aðgang þar.  
 https://github.com/mej3hi/IcelandEventsApp  
 ![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndIEA1S.PNG)
+
+## Iceland Events ( Rails )
+Iceland Events er vefsíða sem hægt er að nota til að skoða upplýsingar um tónleikar sem verið að halda og einnugs er hægt að setja inn tónleikar með því að búa sig til aðgang að síðuna.  
+https://github.com/mej3hi/IcelandEventsRails    
+![Alt tag](https://raw.githubusercontent.com/mej3hi/screenshot/master/small/myndIER1S.PNG)
